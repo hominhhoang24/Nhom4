@@ -1,6 +1,6 @@
-public interface MedicalRobot {
+public interface MedicalReboot {
      /**
      * Phuong thuc cham soc.
      */
-    void care();
+    void care(); 
 }
